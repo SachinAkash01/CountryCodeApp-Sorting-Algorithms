@@ -1,0 +1,247 @@
+Rwanda	,	RW	,	RWA	,	646
+Jamaica	,	JM	,	JAM	,	388
+Jersey	,	JE	,	JEY	,	832
+Bolivia	,	BO	,	BOL	,	68
+South Sudan	,	SS	,	SSD	,	728
+Cameroon	,	CM	,	CMR	,	120
+Holy See 	,	VA	,	VAT	,	336
+Venezuela	,	VE	,	VEN	,	862
+Cuba	,	CU	,	CUB	,	192
+Saint-Martin 	,	MF	,	MAF	,	663
+Turkey	,	TR	,	TUR	,	792
+Mali	,	ML	,	MLI	,	466
+Paraguay	,	PY	,	PRY	,	600
+Vanuatu	,	VU	,	VUT	,	548
+Netherlands	,	NL	,	NLD	,	528
+Macao	,	MO	,	MAC	,	446
+Solomon Islands	,	SB	,	SLB	,	90
+Singapore	,	SG	,	SGP	,	702
+Bhutan	,	BT	,	BTN	,	64
+Costa Rica	,	CR	,	CRI	,	188
+Sao Tome and Principe	,	ST	,	STP	,	678
+Slovenia	,	SI	,	SVN	,	705
+Trinidad and Tobago	,	TT	,	TTO	,	780
+British Virgin Islands	,	VG	,	VGB	,	92
+Seychelles	,	SC	,	SYC	,	690
+Samoa	,	WS	,	WSM	,	882
+New Caledonia	,	NC	,	NCL	,	540
+Spain	,	ES	,	ESP	,	724
+Ghana	,	GH	,	GHA	,	288
+Namibia	,	NA	,	NAM	,	516
+Malawi	,	MW	,	MWI	,	454
+Philippines	,	PH	,	PHL	,	608
+United States of America	,	US	,	USA	,	840
+Cook Islands	,	CK	,	COK	,	184
+Benin	,	BJ	,	BEN	,	204
+New Zealand	,	NZ	,	NZL	,	554
+Tunisia	,	TN	,	TUN	,	788
+Canada	,	CA	,	CAN	,	124
+Micronesia	,	FM	,	FSM	,	583
+Eritrea	,	ER	,	ERI	,	232
+Suriname	,	SR	,	SUR	,	740
+South Georgia and the South Sandwich Islands	,	GS	,	SGS	,	239
+Kuwait	,	KW	,	KWT	,	414
+US Minor Outlying Islands	,	UM	,	UMI	,	581
+Mayotte	,	YT	,	MYT	,	175
+Cayman Islands	,	KY	,	CYM	,	136
+Myanmar	,	MM	,	MMR	,	104
+China	,	CN	,	CHN	,	156
+Bahrain	,	BH	,	BHR	,	48
+Madagascar	,	MG	,	MDG	,	450
+Algeria	,	DZ	,	DZA	,	12
+Niue	,	NU	,	NIU	,	570
+Angola	,	AO	,	AGO	,	24
+Marshall Islands	,	MH	,	MHL	,	584
+American Samoa	,	AS	,	ASM	,	16
+Burundi	,	BI	,	BDI	,	108
+Azerbaijan	,	AZ	,	AZE	,	31
+Argentina	,	AR	,	ARG	,	32
+Italy	,	IT	,	ITA	,	380
+Puerto Rico	,	PR	,	PRI	,	630
+Tokelau	,	TK	,	TKL	,	772
+Mexico	,	MX	,	MEX	,	484
+Saint Pierre and Miquelon	,	PM	,	SPM	,	666
+Sierra Leone	,	SL	,	SLE	,	694
+Serbia	,	RS	,	SRB	,	688
+Honduras	,	HN	,	HND	,	340
+Netherlands Antilles	,	AN	,	ANT	,	530
+Faroe Islands	,	FO	,	FRO	,	234
+Montserrat	,	MS	,	MSR	,	500
+Lebanon	,	LB	,	LBN	,	422
+Lithuania	,	LT	,	LTU	,	440
+Mauritania	,	MR	,	MRT	,	478
+Sudan	,	SD	,	SDN	,	736
+Iceland	,	IS	,	ISL	,	352
+Congo	,	CD	,	COD	,	180
+Burkina Faso	,	BF	,	BFA	,	854
+Anguilla	,	AI	,	AIA	,	660
+France	,	FR	,	FRA	,	250
+Ireland	,	IE	,	IRL	,	372
+Somalia	,	SO	,	SOM	,	706
+San Marino	,	SM	,	SMR	,	674
+Iran	,	IR	,	IRN	,	364
+Afghanistan	,	AF	,	AFG	,	4
+Antigua and Barbuda	,	AG	,	ATG	,	28
+Iraq	,	IQ	,	IRQ	,	368
+Peru	,	PE	,	PER	,	604
+Turkmenistan	,	TM	,	TKM	,	795
+Kyrgyzstan	,	KG	,	KGZ	,	417
+Turks and Caicos Islands	,	TC	,	TCA	,	796
+Chile	,	CL	,	CHL	,	152
+Pakistan	,	PK	,	PAK	,	586
+Tonga	,	TO	,	TON	,	776
+Tajikistan	,	TJ	,	TJK	,	762
+Bulgaria	,	BG	,	BGR	,	100
+Kiribati	,	KI	,	KIR	,	296
+Pitcairn	,	PN	,	PCN	,	612
+Central African Republic	,	CF	,	CAF	,	140
+Bahamas	,	BS	,	BHS	,	44
+Greece	,	GR	,	GRC	,	300
+Syria	,	SY	,	SYR	,	760
+Luxembourg	,	LU	,	LUX	,	442
+Réunion	,	RE	,	REU	,	638
+French Southern Territories	,	TF	,	ATF	,	260
+Austria	,	AT	,	AUT	,	40
+Jordan	,	JO	,	JOR	,	400
+Andorra	,	AD	,	AND	,	20
+Liechtenstein	,	LI	,	LIE	,	438
+South Africa	,	ZA	,	ZAF	,	710
+Liberia	,	LR	,	LBR	,	430
+Denmark	,	DK	,	DNK	,	208
+Wallis and Futuna Islands	,	WF	,	WLF	,	876
+Guinea	,	GN	,	GIN	,	324
+Zambia	,	ZM	,	ZMB	,	894
+Russian Federation	,	RU	,	RUS	,	643
+Chad	,	TD	,	TCD	,	148
+Comoros	,	KM	,	COM	,	174
+Bangladesh	,	BD	,	BGD	,	50
+Monaco	,	MC	,	MCO	,	492
+Isle of Man	,	IM	,	IMN	,	833
+Western Sahara	,	EH	,	ESH	,	732
+Saint Kitts and Nevis	,	KN	,	KNA	,	659
+Falkland Islands (Malvinas)	,	FK	,	FLK	,	238
+Bosnia and Herzegovina	,	BA	,	BIH	,	70
+Germany	,	DE	,	DEU	,	276
+Belgium	,	BE	,	BEL	,	56
+Martinique	,	MQ	,	MTQ	,	474
+Uruguay	,	UY	,	URY	,	858
+Timor-Leste	,	TL	,	TLS	,	626
+Czech Republic	,	CZ	,	CZE	,	203
+Côte d'Ivoire	,	CI	,	CIV	,	384
+Norfolk Island	,	NF	,	NFK	,	574
+Congo (Brazzaville)	,	CG	,	COG	,	178
+Hungary	,	HU	,	HUN	,	348
+Grenada	,	GD	,	GRD	,	308
+Zimbabwe	,	ZW	,	ZWE	,	716
+Saint Lucia	,	LC	,	LCA	,	662
+Aland Islands	,	AX	,	ALA	,	248
+Senegal	,	SN	,	SEN	,	686
+Gibraltar	,	GI	,	GIB	,	292
+Botswana	,	BW	,	BWA	,	72
+Kazakhstan	,	KZ	,	KAZ	,	398
+Bermuda	,	BM	,	BMU	,	60
+Saint-Barthélemy	,	BL	,	BLM	,	652
+Dominica	,	DM	,	DMA	,	212
+Mauritius	,	MU	,	MUS	,	480
+Antarctica	,	AQ	,	ATA	,	10
+Colombia	,	CO	,	COL	,	170
+El Salvador	,	SV	,	SLV	,	222
+India	,	IN	,	IND	,	356
+Nicaragua	,	NI	,	NIC	,	558
+Kenya	,	KE	,	KEN	,	404
+Equatorial Guinea	,	GQ	,	GNQ	,	226
+Lao PDR	,	LA	,	LAO	,	418
+United Kingdom	,	GB	,	GBR	,	826
+Uzbekistan	,	UZ	,	UZB	,	860
+Croatia	,	HR	,	HRV	,	191
+Virgin Islands	,	VI	,	VIR	,	850
+United Arab Emirates	,	AE	,	ARE	,	784
+Egypt	,	EG	,	EGY	,	818
+Slovakia	,	SK	,	SVK	,	703
+Japan	,	JP	,	JPN	,	392
+Finland	,	FI	,	FIN	,	246
+Guam	,	GU	,	GUM	,	316
+Swaziland	,	SZ	,	SWZ	,	748
+Palestinian Territory	,	PS	,	PSE	,	275
+Portugal	,	PT	,	PRT	,	620
+Northern Mariana Islands	,	MP	,	MNP	,	580
+Dominican Republic	,	DO	,	DOM	,	214
+Switzerland	,	CH	,	CHE	,	756
+Armenia	,	AM	,	ARM	,	51
+Niger	,	NE	,	NER	,	562
+Guatemala	,	GT	,	GTM	,	320
+Saint Helena	,	SH	,	SHN	,	654
+Sri Lanka	,	LK	,	LKA	,	144
+Greenland	,	GL	,	GRL	,	304
+Ecuador	,	EC	,	ECU	,	218
+Saudi Arabia	,	SA	,	SAU	,	682
+French Guiana	,	GF	,	GUF	,	254
+Malta	,	MT	,	MLT	,	470
+Papua New Guinea	,	PG	,	PNG	,	598
+Malaysia	,	MY	,	MYS	,	458
+Cyprus	,	CY	,	CYP	,	196
+Brunei Darussalam	,	BN	,	BRN	,	96
+Latvia	,	LV	,	LVA	,	428
+Guernsey	,	GG	,	GGY	,	831
+Lesotho	,	LS	,	LSO	,	426
+Cocos  Islands	,	CC	,	CCK	,	166
+Mongolia	,	MN	,	MNG	,	496
+Taiwan	,	TW	,	TWN	,	158
+Korea (South)	,	KR	,	KOR	,	410
+Saint Vincent and Grenadines	,	VC	,	VCT	,	670
+Georgia	,	GE	,	GEO	,	268
+Guyana	,	GY	,	GUY	,	328
+Ukraine	,	UA	,	UKR	,	804
+Nepal	,	NP	,	NPL	,	524
+Moldova	,	MD	,	MDA	,	498
+Haiti	,	HT	,	HTI	,	332
+Svalbard and Jan Mayen Islands	,	SJ	,	SJM	,	744
+Cambodia	,	KH	,	KHM	,	116
+Macedonia	,	MK	,	MKD	,	807
+Palau	,	PW	,	PLW	,	585
+Australia	,	AU	,	AUS	,	36
+Hong Kong	,	HK	,	HKG	,	344
+Gabon	,	GA	,	GAB	,	266
+Bouvet Island	,	BV	,	BVT	,	74
+Morocco	,	MA	,	MAR	,	504
+Viet Nam	,	VN	,	VNM	,	704
+Guadeloupe	,	GP	,	GLP	,	312
+Indonesia	,	ID	,	IDN	,	360
+Estonia	,	EE	,	EST	,	233
+Thailand	,	TH	,	THA	,	764
+Aruba	,	AW	,	ABW	,	533
+Christmas Island	,	CX	,	CXR	,	162
+Montenegro	,	ME	,	MNE	,	499
+Djibouti	,	DJ	,	DJI	,	262
+Belize	,	BZ	,	BLZ	,	84
+Albania	,	AL	,	ALB	,	8
+Cape Verde	,	CV	,	CPV	,	132
+Sweden	,	SE	,	SWE	,	752
+Barbados	,	BB	,	BRB	,	52
+Heard and Mcdonald Islands	,	HM	,	HMD	,	334
+Togo	,	TG	,	TGO	,	768
+Guinea-Bissau	,	GW	,	GNB	,	624
+Nigeria	,	NG	,	NGA	,	566
+Oman	,	OM	,	OMN	,	512
+Gambia	,	GM	,	GMB	,	270
+Korea (North)	,	KP	,	PRK	,	408
+Maldives	,	MV	,	MDV	,	462
+Poland	,	PL	,	POL	,	616
+British Indian Ocean Territory	,	IO	,	IOT	,	86
+French Polynesia	,	PF	,	PYF	,	258
+Belarus	,	BY	,	BLR	,	112
+Libya	,	LY	,	LBY	,	434
+Brazil	,	BR	,	BRA	,	76
+Qatar	,	QA	,	QAT	,	634
+Nauru	,	NR	,	NRU	,	520
+Mozambique	,	MZ	,	MOZ	,	508
+Panama	,	PA	,	PAN	,	591
+Tuvalu	,	TV	,	TUV	,	798
+Ethiopia	,	ET	,	ETH	,	231
+Yemen	,	YE	,	YEM	,	887
+Norway	,	NO	,	NOR	,	578
+Uganda	,	UG	,	UGA	,	800
+Fiji	,	FJ	,	FJI	,	242
+Israel	,	IL	,	ISR	,	376
+Tanzania	,	TZ	,	TZA	,	834
+Romania	,	RO	,	ROU	,	642
